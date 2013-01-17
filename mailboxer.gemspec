@@ -32,7 +32,7 @@ Gem::Specification.new do |s|
   #else
     #s.add_development_dependency('factory_girl', '~> 2.6.0')
   #end
-  s.add_development_dependency('factory_girl', '~> 2.6.0')
+  s.add_development_dependency('factory_girl', '~> 4.1.0')
   # Population
   s.add_development_dependency('forgery', '>= 0.3.6')
   # Integration testing
